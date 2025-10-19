@@ -17,7 +17,7 @@ A ROS2-based autonomous navigation system for a differential-drive robot, using 
 ## 🎥 Demo
 
 Watch the system in action:  
-[![Robot Navigation Demo](https://img.youtube.com/vi/fCdanhtq-hcy/0.jpg)](https://www.youtube.com/watch?v=fCdanhtq-hc)
+[![Robot Navigation Demo](https://img.youtube.com/vi/fCdanhtq-hc/0.jpg)](https://www.youtube.com/watch?v=fCdanhtq-hc)
 
 *(Click the image above to watch on YouTube)*
 
