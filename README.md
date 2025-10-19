@@ -14,6 +14,15 @@ Link to Onboarding Assignment: https://wiki.watonomous.ca/
 
 A ROS2-based autonomous navigation system for a differential-drive robot, using LiDAR and odometry to navigate from point A to point B while avoiding obstacles.
 
+## 🎥 Demo
+
+Watch the system in action:  
+[![Robot Navigation Demo](https://img.youtube.com/vi/https://www.youtube.com/watch?v=fCdanhtq-hc/0.jpg)](https://www.youtube.com/watch?v=fCdanhtq-hc)
+
+*(Click the image above to watch on YouTube)*
+
+---
+
 ## Features
 
 - **LiDAR-based Perception:** Converts laser scans into local occupancy grids (costmaps).  
